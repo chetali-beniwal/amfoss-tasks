@@ -1,0 +1,10 @@
+#Introspection
+---
+###Why must we choose you?
+I have not that much experience of programming and all but I have started studying python in 11th and 12th so I know little bit of it and I want get further into it and for the past few days I had a great opportunity to work and learn with the club members of amfoss including seniors, batchmates and friends and in the workshop. I want to continue in the field of programming and I feel like being amFOSS would provide a great environment for me to pursue this. Looking forward to be a member of this club.
+###What is your plan for the next six months?
+Since I know a little bit of python so I would like to invest more time in that and improve my python skills. I was not not able to solve all the tasks so I would like to spend time in understanding the shortcomings that I had during this time and most importantly I would like to improve my problem solving skills and be more resourceful as that has been a reccuring theme throughout the tasks.
+###How would you contribute back to the club?
+I would help my colleagues, friends, juniors in the learning process to the best of my capabilities
+###Do you have any feedback on the selection process?
+As a beginner, I found it very difficult to get started with a lot of challenges. I felt there was a huge gap in the skills I had vs the skills that were needed to complete the challenges. Even though there were several channels for help, at the end everyone is going to be just on the same level which makes me think that if someone is not at that level in the beginning that person might get rejected and never get a chance to learn from the best of what amFOSS has to offer. Instead of the results being selected or not selected in amFOSS club based on what someone is today they should be given opportunities to show what they can be. Something like this can be achieved by having multiple selection groups based on skills levels or interests.  

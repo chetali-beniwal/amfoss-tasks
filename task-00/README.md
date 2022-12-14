@@ -1,0 +1,3 @@
+#Installing Ubuntu on Laptop
+---
+Installing ubuntu was really a difficult task for me as i heard this for the first time. so i read some blogs and saw some videos on how to download it, still i was not able to download it as my laptop hanged a lot of times. and after the installation also i wasn't able to use it properly because when i used to open my laptop, windows appeared, i was not able to open ubuntu so i took help from some of my seniors and they resolved this issue. but after few days login issue came on ubuntu so i had to reinstall ubuntu in which again some seniors helped me. and now ubuntu is working properly and i find this pretty amazing and fun as this is the first time i am using such thing.
